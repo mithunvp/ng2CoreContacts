@@ -8,8 +8,7 @@
         'app': 'appScripts', // 'dist',
         '@angular': 'libs/@angular',
         'angular2-in-memory-web-api': 'libs/angular2-in-memory-web-api',
-        'rxjs': 'libs/rxjs',
-        '@angular2-material': 'libs/@angular2-material'
+        'rxjs': 'libs/rxjs'        
     };
 
     var Materialmap = {        

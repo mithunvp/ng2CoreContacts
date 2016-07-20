@@ -2,7 +2,7 @@
 import { MD_BUTTON_DIRECTIVES } from '@angular2-material/button';
 @Component({
     selector: 'my-app',
-    template: '<button md-raised-button color="accent">ACCENT RAISED</button>',
+    template: '<button md-raised-button color="accent">Material Button</button>',
     directives: [        
         MD_BUTTON_DIRECTIVES,        
     ],
