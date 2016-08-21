@@ -1,10 +1,6 @@
-﻿import {Component} from '@angular/core';
-import { MD_BUTTON_DIRECTIVES } from '@angular2-material/button';
+﻿import { Component } from '@angular/core';
 @Component({
     selector: 'my-app',
-    template: '<button md-raised-button color="accent">Material Button</button>',
-    directives: [        
-        MD_BUTTON_DIRECTIVES,        
-    ],
+    templateUrl: 'views/app.html',
 })
 export class AppComponent { }
