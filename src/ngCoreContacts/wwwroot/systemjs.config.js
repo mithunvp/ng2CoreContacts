@@ -133,7 +133,7 @@
 
     // Bundled (~40 requests):
     function MpackUmd(pkgName) {
-        packages['@angular2-material/' + pkgName] = { main: '/bundles/' + pkgName + '.umd.js', defaultExtension: 'js' };        
+        materialpackages['@angular2-material/' + pkgName] = { main: pkgName + '.umd.js', defaultExtension: 'js' };
     }
 
     // Most environments should use UMD; some (Karma) need the individual index files
