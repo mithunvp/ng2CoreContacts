@@ -31,7 +31,7 @@ module.exports = function(options) {
     },
     
     resolve: {      
-      extensions: ['', '.ts', '.js', '.json', '.scss'],
+      extensions: ['', '.ts', '.js', '.json', '.scss', '.css'],
       modules: [helpers.root('clientsrc'), 'node_modules'],
 
     },
