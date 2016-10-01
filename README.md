@@ -9,3 +9,5 @@ How to run the application
 * Running app in production mode **npm run build:prod** and **npm run server:prod**
 
 For more details on this repo, visit [Angular 2 in ASP.NET Core](http://www.mithunvp.com/angular-2-in-asp-net-5-typescript-visual-studio-2015/)
+
+Includes Angular Material 2 UI components, visit [Angular Material 2 in ASP.NET Core 1.0](http://www.mithunvp.com/angular-material-angular2-aspnet-core-visual-studio/)
