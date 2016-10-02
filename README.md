@@ -6,7 +6,7 @@ How to run the application
 * Open in Visual Studio 2015 Update 3, install TypeScript 2.0 (its must)
 * You can also perform *npm install* if VS IDE does not install packages
 * Running app in development mode **npm start**.
-* Running app in production mode **npm run build:prod** and **npm run server:prod**
+* Running app in production mode **npm run build:prod**, this will add files wwwroot. Then you can do F5 from Visual Studio to run.
 
 For more details on this repo, visit [Angular 2 in ASP.NET Core](http://www.mithunvp.com/angular-2-in-asp-net-5-typescript-visual-studio-2015/)
 
